@@ -11,6 +11,6 @@ This project involves using deep learning and computer vision techniques to deve
 2. **Diagnosis**: The AI app interprets the image and provides a detailed diagnosis of data samples.
 
 # ❄️[Demo](https://portfolio-template.streamlit.app/?ref=blog.streamlit.io)
-![Untitled design](https://github.com/user-attachments/assets/7797bc41-053e-4023-843b-49c50059f887)
+![Untitled design (1)](https://github.com/user-attachments/assets/739ef6bc-7a46-4e24-894c-254c019dadc0)
 
 
